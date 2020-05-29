@@ -1,0 +1,19 @@
+{
+  "name": "loreleibot",
+  "version": "1.0.0",
+  "description": "the imouto of your dreams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mayfly",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "giphy-random": "^2.0.8",
+    "request": "^2.88.2",
+    "superagent": "^5.2.1"
+  }
+}
